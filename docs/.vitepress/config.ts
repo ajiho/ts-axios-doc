@@ -8,6 +8,9 @@ export default defineConfig({
   description: "学习使用 TypeScript 从零实现 axios 库",
   head: [["link", { rel: "icon", href: "favicon.svg", type: "image/svg+xml" }]],
   themeConfig: {
+    outline: {
+      level: "deep",
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "关于本文档", link: "/about" }],
     logo: { src: "/logo-mini.svg", width: 24, height: 24 },
