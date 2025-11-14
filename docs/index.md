@@ -19,4 +19,7 @@ hero:
     - theme: alt
       text: 讨论
       link: https://github.com/ajiho/ts-axios-doc/discussions
+    - theme: alt
+      text: 文档说明
+      link: /about
 ---
